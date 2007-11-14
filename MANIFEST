@@ -1,0 +1,14 @@
+Changes
+MANIFEST
+Makefile.PL
+README
+lib/Net/Defensio.pm
+lib/Net/Defensio/Response.pm
+
+t/00-compile.t
+t/01-validate-key.t
+t/03-audit-comment.t
+t/04-report-false-negatives.t
+t/05-report-false-positives.t
+t/06-get-stats.t
+META.yml                                 Module meta-data (added by MakeMaker)
