@@ -5,7 +5,7 @@ package Net::Defensio;
 use strict;
 use Net::Defensio::Response;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 our $ERROR;
 our $API_VERSION = '1.1';
 

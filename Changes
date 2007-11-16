@@ -1,6 +1,13 @@
 Revision history for Net-Defensio
 
+0.02   Thu Nov 15 17:00:00 PST 2007
+
+ *  Added YAML::Tiny as a requirement, since that's all that is supported
+    currently. Support for XML and using YAML / YAML::Syck is planned.
+ *  Disabled tests for report-false-positives, report-false-negatives since
+    Defensio API doesn't store signatures for test data yet.
+
 0.01   Mon Nov 12 12:00:00 PST 2007
 
-    First version.
+ *  First version.
 

@@ -13,6 +13,7 @@ WriteMakefile(
         'Test::More' => 0,
         'Class::Accessor::Fast' => 0,
         'LWP::UserAgent' => 0,
+        'YAML::Tiny' => 0,
     },
     dist                => { COMPRESS => 'gzip -9f', SUFFIX => 'gz', },
     clean               => { FILES => 'Net-Defensio-*' },
